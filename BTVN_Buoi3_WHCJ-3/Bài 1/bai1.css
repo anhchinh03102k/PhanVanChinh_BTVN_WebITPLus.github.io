@@ -1,0 +1,52 @@
+.conten{
+	width: 50%;
+	height: 450px;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+.layout1{
+	border-bottom: 1px solid black;
+	width: 100%;
+	height: 5%; 
+	line-height: 20px;
+}
+.layout2{
+	margin: 2% 2% ;
+	width: 96%;
+	height: 89%;
+}
+.layout3{
+	width: 100%;
+	height: 80%;
+}
+.layout4{
+	width: 100%;
+	height: 20.1%;
+	background: #ffe599;
+	border: 1px solid black;
+}
+.layout5{
+	width: 32%;
+	height: 100%;
+	float: left;
+}
+.layout5-1{
+	width: 94%;
+	margin-right: 5%;
+	height: 29%;
+	margin-bottom: 5.3%;
+	background: #ea9999;
+	border: 1px solid black;
+}
+.layout6{
+	width: 68%;
+	height: 100%;
+	float: left;
+}
+.layout6-1{
+	width: 99%;
+	height: 29%;
+	margin-bottom: 2.5%;
+	background: #9fc5f8;
+	border: 1px solid black;
+}

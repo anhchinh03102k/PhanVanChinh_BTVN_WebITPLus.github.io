@@ -1,0 +1,52 @@
+.conten{
+	width: 100%;
+	height: 600px;
+	background: #ebebeb;
+	padding-top: 15px;
+}
+.layout1{
+	background: #ffffff;
+	width: 60%;
+	height: 600px;
+	margin: 0 auto;
+	position: relative;
+}
+.layout2{
+	width: 96%;
+	height: 95%;
+	margin: 2% 2%;
+	position: absolute;
+}
+.chu{
+	color: red;
+	font-size: 18px;
+	font-family: arial;
+}
+.layout3{
+	display: flex;
+	margin: 20px 0px;
+}
+.layout3-1{
+	width: 40%;
+	height: 200px;
+	background: #ebebeb;
+	text-align: center;
+	line-height: 200px;
+}
+.cot1{
+	margin-right: 10px;
+}
+.cot2{
+	margin: 0px 10px;
+}
+.cot3{
+	margin-left: 10px;
+}
+.layout4{
+	display: flex;
+	margin-bottom: 30px;
+}
+.layout4-1{
+	width: 40%;
+	height: 180px;
+}

@@ -1,0 +1,44 @@
+.conten{
+	width: 70%;
+	height: auto;
+	margin: 0 auto;
+	font-family: arial;
+}
+.layout1{
+	width: 100%;
+	height: 200px;
+	background: #666666;
+	font-size: 35px;
+	line-height: 200px;
+	text-align: center;
+	color: #ffffff;
+	font-weight: 700;
+}
+.layout2{
+	width: 100%;
+	height: 300px;
+}
+.layout2-1
+{
+	height: 100%;
+	width: 30%;
+	background: #cccccc;
+	float: left;
+}
+.layout2-2{
+	height: 100%;
+	width: 70%;
+	float: left;
+	background: #f1f1f1;
+}
+.layout3{
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	background: #777777;
+	color: #ffffff;
+}
+a{
+	color: blue;
+}

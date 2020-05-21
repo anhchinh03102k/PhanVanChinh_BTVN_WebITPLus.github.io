@@ -1,0 +1,36 @@
+.conten{
+	width: 50%;
+	height: auto;
+	margin: 0 auto;
+	border: 3px solid black;
+}
+.layout1{
+	width: 94%;
+	height: 50px;
+	margin: 15px 15px;
+	text-align: center;
+	line-height: 50px;
+	border: 3px solid black;
+}
+.layout2{
+	width: 95%;
+	height: 106px;
+	margin: 0px 15px;
+}
+.layout2-1{
+	width: 20%;
+	margin-right: 9px;
+	border: 3px solid black;
+	height: 100px;
+	float: left;
+	line-height: 100px;
+	text-align: center;
+}
+.layout2-2{
+	width: 76.5%;
+	border: 3px solid black;
+	height: 100px;
+	float: left;
+	line-height: 100px;
+	text-align: center;
+}
